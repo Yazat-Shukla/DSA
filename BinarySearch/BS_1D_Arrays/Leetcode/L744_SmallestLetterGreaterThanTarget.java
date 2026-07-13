@@ -1,4 +1,5 @@
-import java.util.*;
+package Leetcode;
+
 public class L744_SmallestLetterGreaterThanTarget {
     public static void main(String[] args) {
         char[] letters = {'x','x','y','y'};
