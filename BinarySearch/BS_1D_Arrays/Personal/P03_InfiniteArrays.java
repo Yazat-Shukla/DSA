@@ -1,4 +1,5 @@
-import java.util.*;
+package Personal;
+
 // https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
 public class P03_InfiniteArrays {
     public static void main(String[] args) {

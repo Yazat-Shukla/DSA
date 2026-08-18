@@ -1,4 +1,5 @@
-import java.util.*;
+package Personal;
+
 public class LearningBinarySearch {
     static int binarySearch(int[] arr, int target) {
         int start = 0;

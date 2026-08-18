@@ -1,4 +1,5 @@
-import java.util.*;
+package Personal;
+
 public class P02_FloorNumber {
     public static void main(String[] args) {
         int[] arr = {2,4,6,8,10,12,14,16,18};

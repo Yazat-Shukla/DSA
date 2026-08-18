@@ -1,4 +1,5 @@
-import java.util.*;
+package Personal;
+
 public class BINARYSEARCHMAIN {
     public static void main(String[] args) {
         int[] arr = {2,3,4,15,16,22,45,89};

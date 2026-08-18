@@ -1,3 +1,5 @@
+package Personal;
+
 public class P01_CeilingNumber {
     // floor is the smallest number greater than target
     static int ceilinglogic(int[] nums, int target) {
